@@ -7,29 +7,101 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title></title>
+    <title>Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .login-form {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+            width: 350px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-spacing: 10px 15px;
+        }
+
+        input[type="text"], input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        .nav-link {
+            display: inline-block;
+            margin-top: 10px;
+            text-align: center;
+            width: 100%;
+            color: #4CAF50;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .nav-link:hover {
+            color: #45a049;
+        }
+    </style>
 </head>
 <body>
-    <div>
-
-        <div class="login-form">
-            <form method="post" action="@Url.Action("Autenticar","Acceso")">
-                <table>
-                    <tr>
-                        <td>Usuario:</td>
-                        <td><input type="text" name="usuario" id="usuario" required /></td>
-                    </tr>
-                    <tr>
-                        <td>Clave:</td>
-                        <td><input type="password" name="pass" id="pass" required /></td>
-                    </tr>
-                    <tr>
-                        <td><button type="submit" style="background-color: yellow;">Ingresar</button></td>
-                        <td>@Html.ActionLink("Registrar", "RegistroStaff", "Acceso", new { area = "" }, new { @class = "nav-link" })</td>
-                    </tr>
-                </table>
-            </form>
-        </div>
+    <div class="login-form">
+        <h2>Login</h2>
+        <form method="post" action="@Url.Action("Autenticar", "Acceso")">
+            <table>
+                <tr>
+                    <td><label for="usuario">Usuario:</label></td>
+                    <td><input type="text" name="usuario" id="usuario" required /></td>
+                </tr>
+                <tr>
+                    <td><label for="pass">Clave:</label></td>
+                    <td><input type="password" name="pass" id="pass" required /></td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <button type="submit">Ingresar</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center;">
+                        @Html.ActionLink("Registrar", "RegistroStaff", "Acceso", new { area = "" }, new { @class = "nav-link" })
+                    </td>
+                </tr>
+            </table>
+        </form>
     </div>
 </body>
 </html>

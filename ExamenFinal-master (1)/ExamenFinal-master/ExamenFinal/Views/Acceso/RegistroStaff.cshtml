@@ -1,0 +1,75 @@
+﻿@{
+    Layout = null;
+}
+
+@model ExamenFinal.Models.SuperClase
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+
+    <h2>Registro de Usuario</h2>
+
+    <form action="/submit" method="post">
+        <table>
+            <tr>
+                <td>Identificación:</td>
+                <td><input type="text" name="id_user" id="id_user" value="" required></td>
+            </tr>
+            <tr>
+                <td>Nombre:</td>
+                <td><input type="text" name="first_name" id="first_name" value="" required></td>
+            </tr>
+            <tr>
+                <td>Apellido:</td>
+                <td><input type="text" name="last_name" id="last_name" value="" required></td>
+            </tr>
+            <tr>
+                <td>Correo:</td>
+                <td><input type="email" name="email" id="email" value="" required></td>
+            </tr>
+            <tr>
+                <td>Activo:</td>
+                <td><input type="checkbox" name="active" id="active" checked></td>
+            </tr>
+            <tr>
+                <td>Tienda:</td>
+                <td>
+                    @if (Model != null)
+                    {
+                        <select id="store_id" name="store_id">
+
+                            <option value=""> Seleccione una tienda</option>
+                            @foreach (var store in Model.Stores)
+                            {
+                                <option value="@store.store_id">@store.store_name</option>
+                            }
+                        </select>
+                    }
+                    else
+                    {
+                        <p>No hay Tiendas disponibles.</p>
+                    }
+
+                </td>
+            </tr>
+            <tr>
+                <td>Contraseña:</td>
+                <td><input type="password" name="contraseña" value="***********" required></td>
+            </tr>
+        </table>
+
+        <br>
+
+        <button type="submit">GUARDAR</button>
+        <button type="reset">CANCELAR</button>
+        @Html.ActionLink("Regresar a Login", "Autenticar", "Acceso", new { area = "" }, new { @class = "nav-link" })
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+
+        <div class="login-form">
+            <form method="post" action="@Url.Action("Autenticar","Acceso")">
+                <table>
+                    <tr>
+                        <td>Usuario:</td>
+                        <td><input type="text" name="usuario" id="usuario" required /></td>
+                    </tr>
+                    <tr>
+                        <td>Clave:</td>
+                        <td><input type="password" name="pass" id="pass" required /></td>
+                    </tr>
+                    <tr>
+                        <td><button type="submit" style="background-color: yellow;">Ingresar</button></td>
+                        <td>@Html.ActionLink("Registrar", "RegistroStaff", "Acceso", new { area = "" }, new { @class = "nav-link" })</td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

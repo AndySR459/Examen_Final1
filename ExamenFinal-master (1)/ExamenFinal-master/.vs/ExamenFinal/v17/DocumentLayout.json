@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\views\\orden\\orden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\views\\orden\\orden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\models\\superclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\models\\superclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\views\\acceso\\registrostaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\views\\acceso\\registrostaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\views\\acceso\\autenticar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\views\\acceso\\autenticar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\user\\downloads\\examenfinal-master (1)\\examenfinal-master\\examenfinal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\examenfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F121C000-FF1D-4A76-B29E-83A95E92F884}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\Product.cs",
+              "RelativeToolTip": "ExamenFinal\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:51:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\SystemUser.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Models\\SystemUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\SystemUser.cs",
+              "RelativeToolTip": "ExamenFinal\\Models\\SystemUser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:48:22.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\Staff.cs",
+              "RelativeToolTip": "ExamenFinal\\Models\\Staff.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:36:01.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistroStaff.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Views\\Acceso\\RegistroStaff.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinal\\Views\\Acceso\\RegistroStaff.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Views\\Acceso\\RegistroStaff.cshtml",
+              "RelativeToolTip": "ExamenFinal\\Views\\Acceso\\RegistroStaff.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T13:35:33.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Autenticar.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Views\\Acceso\\Autenticar.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinal\\Views\\Acceso\\Autenticar.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Views\\Acceso\\Autenticar.cshtml",
+              "RelativeToolTip": "ExamenFinal\\Views\\Acceso\\Autenticar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T13:35:24.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperClase.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\SuperClase.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Models\\SuperClase.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\SuperClase.cs",
+              "RelativeToolTip": "ExamenFinal\\Models\\SuperClase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:33:58.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Models\\Customer.cs",
+              "RelativeToolTip": "ExamenFinal\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:32:28.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orden.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Views\\Orden\\Orden.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinal\\Views\\Orden\\Orden.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Views\\Orden\\Orden.cshtml",
+              "RelativeToolTip": "ExamenFinal\\Views\\Orden\\Orden.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAgwIMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T13:14:04.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Controllers\\OrdenController.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Controllers\\OrdenController.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Controllers\\OrdenController.cs",
+              "RelativeToolTip": "ExamenFinal\\Controllers\\OrdenController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwJEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:13:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExamenFinal\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "ExamenFinal\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T14:01:36.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ExamenFinal\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:52:48.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "ExamenFinal\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAIwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:16:16.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Web.config",
+              "RelativeDocumentMoniker": "ExamenFinal\\Web.config",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\ExamenFinal-master (1)\\ExamenFinal-master\\ExamenFinal\\Web.config",
+              "RelativeToolTip": "ExamenFinal\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-27T05:13:08.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
